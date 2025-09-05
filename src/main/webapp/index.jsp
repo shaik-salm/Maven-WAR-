@@ -51,7 +51,7 @@
 
     <div class="quote">
         "The earth has music for those who listen."
-        <div class="author">– William Shakespeare</div>
+        <div class="author">– William Shakespeare.....</div>
     </div>
 
     <div class="quote">
