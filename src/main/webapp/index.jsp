@@ -37,7 +37,7 @@
 <body>
 
     <h1>Hello World!</h1>
-    <h2>Learn here, lead anywhere... Salma</h2>
+    <h2>Learn here, lead anywhere... Salma shaik</h2>
 
     <div class="quote">
         "Look deep into nature, and then you will understand everything better."
